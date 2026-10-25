@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "Mornigong") (type "KiCad") (uri "C:/Users/Bootntr/Desktop/kicad/Mornigong/Mornigong.pretty") (options "") (descr ""))
+	(lib (name "Mornigong") (type "KiCad") (uri "C:/Users/Bootntr/Desktop/kicad/Mornigong.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty/Library.pretty") (options "") (descr ""))
+	(lib (name "ESP32-C3_SUPERMINI_SMD") (type "KiCad") (uri "C:/Users/Bootntr/Downloads/ESP32-C3_SUPERMINI_SMD.pretty") (options "") (descr ""))
+	(lib (name "Mornigong") (type "KiCad") (uri "${KIPRJMOD}/Mornigong.pretty") (options "") (descr ""))
+)
