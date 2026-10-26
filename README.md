@@ -50,6 +50,6 @@ Actual marimba and solenoids for my project
 | `R11-R20` | 10 kohm 1/4W 5% carbon film, axial | 10 | [LCSC C2894649](https://lcsc.com?) | 0.41 |
 | `R21, R22` | 5.1 kohm 1/4W 5% carbon film, axial | 2 | [LCSC C120072](https://lcsc.com) | 0.57 |
 | `-` | 3D printing costs | - | - | 2.50 |
-| | | | **Összköltség (Total cost):** | **49.70 \$** |
+| | | | **(Total cost):** | **49.70 \$** |
 
 
